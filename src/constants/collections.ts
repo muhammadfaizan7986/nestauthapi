@@ -1,0 +1,17 @@
+export const DB_COLLECTIONS = {
+  ADMIN: 'admin',
+  USERS: 'user',
+  NOFIFICATION: 'notification',
+  CONTEST: 'contest',
+  NEWS: 'news',
+  VERIFICATIONS: 'verification',
+  TEAMS: 'team',
+  PLAYER: 'player',
+  GEAR: 'gear',
+  INVENTORY: 'inventories',
+  NFT: 'nft',
+  LISTING: 'listing',
+  CHALLENGES: 'challenges',
+  MATCH: 'match',
+  ROSTER: 'roster',
+};
